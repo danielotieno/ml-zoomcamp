@@ -1,1 +1,1 @@
-# ml-zoomcamp
+# Machine Learning BootCamp
